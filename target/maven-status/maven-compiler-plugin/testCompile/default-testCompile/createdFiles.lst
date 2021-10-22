@@ -1,0 +1,8 @@
+org\winner\automation\tests\RegistrationTests.class
+org\winner\automation\utils\ReadExcelData.class
+org\winner\automation\pages\RegistrationPage.class
+org\winner\automation\tests\HomepageTests.class
+org\winner\automation\utils\TestData.class
+org\winner\automation\steps\HomepageSteps.class
+org\winner\automation\steps\RegistrationSteps.class
+org\winner\automation\pages\HomepagePage.class
